@@ -3,7 +3,12 @@
 **Fine-tuned DeepSeek-R1-Distill-Llama-8B for Purple Squirrel AI Platform**
 
 [![Model on HF](https://img.shields.io/badge/🤗_Model-Hugging_Face-orange)](https://huggingface.co/purplesquirrelnetworks/purple-squirrel-r1)
-[![Research Paper](https://img.shields.io/badge/📄_Paper-AIDP_Neural_Cloud-blue)](https://huggingface.co/purplesquirrelnetworks/aidp-neural-cloud-paper)
+[![GGUF](https://img.shields.io/badge/🤗_GGUF-Quantized-blue)](https://huggingface.co/purplesquirrelnetworks/purple-squirrel-r1-gguf)
+[![Multichain](https://img.shields.io/badge/🤗_Multichain-Fine--tuned-purple)](https://huggingface.co/purplesquirrelnetworks/purple-squirrel-r1-multichain)
+[![LoRA](https://img.shields.io/badge/🤗_LoRA-Adapters-green)](https://huggingface.co/purplesquirrelnetworks/purple-squirrel-r1-multichain-lora)
+[![Neural Cloud](https://img.shields.io/badge/📄_Paper-Neural_Cloud-blue)](https://huggingface.co/purplesquirrelnetworks/aidp-neural-cloud-paper)
+[![Video Forge](https://img.shields.io/badge/📄_Paper-Video_Forge-teal)](https://huggingface.co/purplesquirrelnetworks/aidp-video-forge-paper)
+[![Collection](https://img.shields.io/badge/🤗_Collection-12_items-yellow)](https://huggingface.co/collections/purplesquirrelnetworks/purple-squirrel-ai-models-papers-and-data-699b4a18abe59a025baf2149)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📊 Model Details
